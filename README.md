@@ -7,6 +7,8 @@ modified or changed / removed as necessary.
 
 Web3 Libraries included.
 
+Please ensure you are using Node version 20.11.1
+
 For npm run the following commands:
 
 ```
